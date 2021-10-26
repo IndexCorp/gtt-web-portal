@@ -1,0 +1,1043 @@
+
+1.	The document received from the shipping line by the shipper when the goods are delivered to the shipping line in the supply chain management process is called: 
+a.	Bill receipt 
+b.	Goods receipt 
+c.	Mate receipt 
+d.	Container receipt 
+e.	None of the options 
+Ans:C
+
+2.	Which of the following is not a job of a loading broker in the supply chain management process?
+a.	Supervise loading
+b.	Book for containers 
+c.	Represent the exporter
+d.	Supervise unloading 
+e.	None of the options 
+Ans:A
+
+3.	The issuance of unclean or foul bill of lading by the shipping line is to inform the supply chain manager that: 
+a.	The container is defective 
+b.	The bill of lading is stained  
+c.	The ship is defective 
+d.	The goods are defective 
+e.	None of the options 
+Ans:D
+
+4.	The information contained in the bill of lading is also carried by the ship itself in a document called: 
+a.	Ship’s loading list
+b.	Ship’s register 
+c.	Ship’s manifest
+d.	Ship’s plan
+e.	None of the options 
+Ans:C
+
+5.	Upon presentation of the bill of lading to the shipping agent at the destination, the document obtained received which is used to obtain the release the goods is called:
+a.	Bill of receipt 
+b.	Bill of arrival 
+c.	Delivery order  
+d.	Delivery receipt 
+e.	All of the options 
+Ans:C
+
+6.	The document that can be used by the importer to obtain the goods from the shipping line because of delay in the arrival of the bill of lading is called:
+a.	Letter of releases 
+b.	Letter of indemnity 
+c.	Letter of loading 
+d.	Letter of unloading 
+e.	None of the options 
+Ans:B
+
+7.	A supply chain manager that wants to reduce the cost of shipment from abroad might need to consider which of the following:
+a.	Outsiders
+b.	Tramp 
+c.	Conferences 
+d.	Charter 
+e.	None of the options 
+Ans:A
+
+8.	The freight rate of a shipping line is based on which of the following?
+a.	Length or breath
+b.	Weight or volume 
+c.	Length or volume 
+d.	Weight or perimeter 
+e.	Weight or area
+Ans:B
+
+9.	Supply chain managers should put price adaptations clauses in their international sales contract because of 
+a.	BAF & CAF 
+b.	BAF & FOB 
+c.	BAT & BAF 
+d.	CAT & CAF
+e.	FOB & CAF
+Ans:A
+
+10.	Which of the following mode of transport has the lowest insurance premium?
+a.	Road
+b.	Air 
+c.	Courier
+d.	Sea
+e.	None of the options 
+Ans:B
+
+11.	The common surcharge for freight based on the fluctuations in the price of fuel is called: 
+a.	BAF 
+b.	CAF 
+c.	DAF  
+d.	EAF
+e.	FAF
+Ans:A
+
+12.	The liner term in an international supply chain management governs the contractual relationship between which of the following?
+a.	Importer and exporter  
+b.	Importer and shipping line
+c.	Shipping line and exporter  
+d.	Shipping line and bank
+e.	Bank and exporter
+Ans:C
+
+13.	In order to reduce the cost of shipment to the buyer abroad, a supply chain manager wants freight collect, which of the following incoterms suits this shipment?
+a.	CFR
+b.	CIF 
+c.	FOB 
+d.	CPT
+e.	CIP
+Ans:C
+
+14.	Which of the following is not a liner term in an international trade transaction?
+a.	Free on board 
+b.	On board the vessel 
+c.	Under ship’s tackle 
+d.	On the quay
+e.	None of the options 
+Ans:A
+
+15.	Which of the following is true about where replenishment cycle occurs in supply chain management?
+a.	Between suppliers and manufacturers 
+b.	Between Manufacturers and distributors 
+c.	Between distributors and retailers 
+d.	Between retailers and consumers 
+e.	Between suppliers and consumers 
+Ans:C
+
+16.	The Free Carrier Incoterms can be thought of as the containerized multimodal equivalent of which of the following Incoterms 
+a.	Free in
+b.	Free alongside ship
+c.	Free out 
+d.	Free on board 
+e.	Free in and out 
+Ans:D
+
+17.	Which of the following is not an applicable Incoterms for a supply chain manager that wants to carry the responsibility of transporting the goods to the port of loading?
+a.	FOB
+b.	FCA  
+c.	FAS 
+d.	CFR
+e.	CIF
+Ans:B
+
+18.	Which of the following Incoterms will require the exporter to bear the cost of insuring the inland transportation of the goods to the port?
+a.	FOB
+b.	FAS 
+c.	CFR
+d.	CIF
+e.	All of the options 
+Ans:E
+
+19.	Which of the following mode of transportation represent 1% by weight and 10% by value of goods transported worldwide?
+a.	Road
+b.	Air 
+c.	Rail
+d.	Courier
+e.	All of the options 
+Ans:B
+
+20.	Which of the following items is not often transported via the Air transportation option?
+a.	Drugs
+b.	Jewelry  
+c.	Minerals 
+d.	Artwork 
+e.	Livestock 
+Ans:C
+
+21.	Which of the following is not a likely cost reduction area available to a supply chain manager in an Air shipment option?
+a.	Insurance cost
+b.	Inventory carrying cost
+c.	Custom duty 
+d.	Packaging cost
+e.	None of the options 
+Ans:E
+
+22.	An inventory kept based on the history of demand for the goods is called.
+a.	Transit inventory 
+b.	Buffer inventory 
+c.	Cycle inventory 
+d.	Decoupling inventory 
+e.	All of the options 
+Ans:C
+
+23.	The following are signs of ineffectiveness in the operation of order management in a company except?
+a.	Delay in order fulfilment 
+b.	Back orders 
+c.	Data entry error 
+d.	Redundancy 
+e.	None of the options 
+Ans:E
+
+24.	Which of the following is the reasons for goods returned by customers in supply chain management?
+a.	Incorrect products shipped 
+b.	Products received differ from advertisements 
+c.	Products recall due to defect
+d.	Products did not meet customers’ expectations 
+e.	All of the options 
+Ans:E
+
+25.	The effective pillars of effective return management in supply chain include the following except: 
+a.	Speed 
+b.	Control
+c.	Quality 
+d.	Visibility 
+e.	None of the options 
+Ans:C
+
+26.	For a company that decides to manufacture the products by doing “make to stock” what does this means? 
+a.	Produce and stored, awaiting customer orders 
+b.	Produced in response to customer orders
+c.	Produce partially and complete upon receipt of order
+d.	Produce to the specifications of the customer 
+e.	None of the options  
+Ans:A
+
+27.	Which of the following is not part of the levels of supply chain management?
+a.	Strategic 
+b.	Planning 
+c.	Tactical 
+d.	Operational 
+e.	All of the options 
+Ans:B
+
+28.	Which of the following is correct about the timeframe considered at the strategic level of the supply chain management?
+a.	Days 
+b.	Weeks
+c.	Months 
+d.	Years 
+e.	All of the options 
+Ans:D
+
+29.	Which of the following is not part of the activities at the tactical level of the supply chain management?
+a.	Production planning 
+b.	Supply chain network design
+c.	Inventory policies
+d.	Transportation strategies 
+e.	None of the options 
+Ans:B
+
+30.	Which of the following is a feature of operational level of supply chain management?
+a.	Procurement contract 
+b.	Production schedule 
+c.	Choosing business site
+d.	Creating network of suppliers 
+e.	Monitoring inflow and outflow of materials 
+Ans:E
+
+31.	Which of the following is not true about the bullwhip effect in supply chain management?
+a.	It is also called whiplash 
+b.	It makes a company to significantly cut or add inventory 
+c.	It decreases variation in demand from consumers to manufacturers 
+d.	It causes issues with time 
+e.	It affects cost  
+Ans:C
+
+32.	The bullwhip effect in supply chain management can be caused by which of the following?
+a.	Order batching 
+b.	Price fluctuations 
+c.	Demand information 
+d.	Lack of communication 
+e.	All of the options 
+Ans:E
+
+33.	Which of these is not part of the likely impact of bullwhip effects on supply chain management?
+a.	Surplus inventory 
+b.	Insufficient inventory 
+c.	High cost of carrying inventory 
+d.	Efficient supply chain management 
+e.	Unfulfilled orders 
+Ans:D
+
+34.	The bullwhip effect can be eliminated in a supply chain management process through which of the following?
+a.	Eliminating delays
+b.	Improved communication 
+c.	Reducing order size 
+d.	Reduce order batching 
+e.	All of the options  
+Ans:E
+
+35.	At the planning stage of SCM, a company has a number of options in its operational strategy, and these include:
+a.	Buying products locally 
+b.	Buying products abroad 
+c.	Manufacture locally 
+d.	Manufacture abroad 
+e.	All of the options 
+Ans:E
+
+36.	For a company that decides to manufacture the products by doing “configure to order” what does this means? 
+a.	Produce and stored, awaiting customer orders 
+b.	Produced in response to customer orders
+c.	Produce partially and complete upon receipt of order
+d.	Produce to the speciation of the customer 
+e.	None of the options  
+Ans:C
+
+37.	Which of the following is correct regarding the stages involved in the supply chain management?
+a.	Planning comes after sourcing
+b.	Sourcing comes after executing 
+c.	Delivery comes after sourcing 
+d.	Return is the 4th stage
+e.	Execute is the third stage 
+Ans:E
+
+38.	The sourcing stage in the supply chain management process involves the following except:
+a.	Determining the suppliers 
+b.	Determining the method of shipping 
+c.	Determining the method of payment  
+d.	Determining the method of delivering  
+e.	Determining the method of sales   
+Ans:E
+
+39.	Which of the following is not part of the activities that characterize the execute stage of the supply chain management?
+a.	Product design 
+b.	Products manufacturing 
+c.	Product marketing 
+d.	Product packaging 
+e.	Product testing 
+Ans:C
+
+40.	Which of the following is not part of the activities that characterize the return stage of the supply chain management?
+a.	It is a problematic stage
+b.	It involves replacing defective goods 
+c.	It involves providing refund 
+d.	It involves production 
+e.	It includes return of expired products 
+Ans:D
+
+41.	Which of the following is true about the activities that characterize the return stage of the supply chain management? 
+a.	It is a logistics phase 
+b.	It involves managing import requirements 
+c.	It includes wars invoicing & payment 
+d.	It involves understanding export requirements 
+e.	All of the options 
+Ans:E
+
+42.	From the perspective of supply chain financier which of the following is a characteristic of information flow?
+a.	Capacity 
+b.	Delivery schedules
+c.	Promotional plans
+d.	Quality inspection 
+e.	Sales
+Ans:D
+
+43.	To ensure quality of goods in the warehouse, it is advised that a warehouse manager should do visual inspection when doing which of the following:
+a.	Receiving goods from manufacturers 
+b.	Upon receipt of complaint on issued goods
+c.	Conducting inventory count
+d.	Noticing that a product is about to expire 
+e.	All of the options 
+Ans:E
+
+44.	Which of the following is not part of the activities that takes place at the point of dispatch of goods?
+a.	Weighing the goods
+b.	Labelling the package 
+c.	Palletizing the items
+d.	Recording on shipping manifest 
+e.	None of the options 
+Ans:E
+
+45.	Put Away as a key warehouse activity involves?
+a.	Unloading goods on truck
+b.	Loading goods on truck
+c.	Transfer receiving area to storage area
+d.	Transfer receiving area to another truck 
+e.	Transfer receiving area to unload area
+Ans:C
+
+46.	The activities that take place between the warehouse receiving the order and the consignee taking possession is called?
+a.	Order picking
+b.	Order shipping 
+c.	Order issue
+d.	Order fulfilment 
+e.	Order unfolding
+Ans:D
+
+47.	Which of the following is not an option in conducting physical inventory counting?
+a.	Vital, essential or non-essential analysis 
+b.	Cycle counting 
+c.	XYZ Analysis 
+d.	ABC analysis 
+e.	None of the options 
+Ans:C
+
+48.	Which of the following is the objectives of layout planning in a warehouse?
+a.	Provide storage facility 
+b.	Provide economical storage
+c.	Provide storage at close proximity 
+d.	Provide storage in a decent location 
+e.	None of the options 
+Ans:B
+
+49.	Which of the following is not required to optimize storage space in a warehouse?
+a.	Racking
+b.	Shelving 
+c.	Palletizing 
+d.	Use of forklift 
+e.	None of the options 
+Ans:E
+
+50.	The strategies for maximising space in the warehouse include which of the following:
+a.	Disposing items that has expired 
+b.	Starting shift duty fir staff
+c.	Reduce space used for receiving goods 
+d.	Reduce space used for shipping goods 
+e.	All of the options 
+Ans:E
+
+51.	The warehousing key performance indicators include which of the following?
+a.	Nonconformity 
+b.	On time delivery 
+c.	Order processing time
+d.	Fuel consumption 
+e.	Availability 
+Ans:C
+
+52.	Which of the following is a key performance indicator for distribution?
+a.	Shipment arriving in good condition 
+b.	Inventory accuracy 
+c.	Put away accuracy 
+d.	Picking accuracy 
+e.	Storage space utilisation 
+Ans:A
+
+53.	Supply chain management is a broad range of activities required to do the following except.
+a.	Plan
+b.	Purchase 
+c.	Control 
+d.	Execute
+e.	None of the options 
+Ans:B
+
+54.	Which of these will be correct supply chain contributions if the primary strategy of a business is cost?
+a.	Efficient and low-cost infrastructure 
+b.	Designed “from the customer in”
+c.	Time to market and time to volume 
+d.	Supply chain excellence and quality control 
+e.	None of the options 
+Ans:A
+
+55.	Which of the following is not part of the phases in product flow for a supply chain management?
+a.	Aggregation 
+b.	Material 
+c.	Production 
+d.	Distribution 
+e.	None of the options 
+Ans:A
+
+57.	A business that uses 8 warehouses wants to reduce cost by reducing it to 5 warehouse which type of consultant does this company need to redesign its network?
+a.	Logistics management expert 
+b.	Marketing expert 
+c.	Supply chain management expert 
+d.	Warehouse management expert
+e.	None of the options 
+Ans:C
+
+58.	Supply chain management skill is required in which of the following?
+a.	Customer satisfaction 
+b.	Improved performance 
+c.	Reduced cost
+d.	Product development 
+e.	All the options 
+Ans:E
+
+59.	Which of these will be correct supply chain contributions if the primary strategy of a business is service?
+a.	Efficient and low-cost infrastructure 
+b.	Designed “from the customer in”
+c.	Time to market and time to volume 
+d.	Supply chain excellence and quality control 
+e.	None of the options 
+Ans:B
+
+60.	Which of the following statement is correct? Supply chain management is the connection between which of the following?
+a.	Sales and marketing 
+b.	Buying and selling 
+c.	Production and consumption 
+d.	Production and warehousing 
+e.	Products and services
+Ans:C
+
+61.	Which of the following is not a supply chain management practice?
+a.	Order processing 
+b.	Marketing 
+c.	Procurement 
+d.	Demand forecasting 
+e.	None of the options 
+Ans:B
+
+62.	Which of the following is not an actor in the flow of products in a supply chain? 
+a.	Distributors 
+b.	Consumers 
+c.	Supplier
+d.	Manufactures 
+e.	None of the options 
+Ans:E
+
+63.	According to the council of supply chain management professionals, supply chain management encompasses the following except:
+a.	Sourcing of products 
+b.	Procurement of products 
+c.	Logistics of moving products 
+d.	Financing of products 
+e.	All the options 
+Ans:E
+
+64.	Supply chain disintegrate supply and demand within and across the company 
+a.	True
+b.	False
+c.	Unknown 
+d.	All the options 
+e.	None of the options 
+Ans:B
+
+65.	According to the council of supply chain management professionals, logistics is a part of supply chain that involves 
+a.	Planning of flow of goods 
+b.	Implement the flow of goods
+c.	Planning the storage of goods
+d.	Control the flow of goods 
+e.	All the options 
+Ans:E
+
+66.	Logistics management integrates logistics with other business functions like:
+a.	Marketing 
+b.	Sales
+c.	Manufacturing 
+d.	Finance
+e.	All the options 
+Ans:E
+
+67.	The operational components of supply chain like quantification, procurement, inventory management are all logistics activities 
+a.	True
+b.	False
+c.	Unknown 
+d.	All the options 
+e.	None of the options 
+Ans:A
+
+68.	Which of the following is the goal of logistics management?
+a.	Customer satisfaction 
+b.	Competitive advantage 
+c.	Customer’s aggregation 
+d.	Business Analyses 
+e.	Consumer protection 
+Ans:A
+
+69.	Which of the following is the goal of supply chain management?
+a.	Customer satisfaction 
+b.	Competitive advantage 
+c.	Customer’s aggregation 
+d.	Business Analyses 
+e.	Consumer protection 
+Ans:B
+
+70.	Logistics management involves how many business organizations?
+a.	One 
+b.	Two 
+c.	Three 
+d.	Four
+e.	Five 
+Ans:A
+
+71.	Which of the following statements is true?
+a.	Supply chain management is an integral part of logistics management 
+b.	Supply chain management has logistics management as a component 
+c.	Supply chain management is a subset of logos management 
+d.	Supply chain management Is a category of logistics management 
+e.	None of the options 
+Ans:B
+
+72.	The concept of reversed logistics is used to do the following except:
+a.	Promote customer service
+b.	Promote resource recycling 
+c.	Promote return of defective products 
+d.	Promote the delivery to consumers 
+e.	All of the options 
+Ans:D
+
+73.	Supply chain management as a management philosophy seeks to achieve which of the following:
+a.	Competitive advantage 
+b.	Developing innovate solutions 
+c.	Synchronize flow of products 
+d.	Harness resources of business partners 
+e.	All the options 
+Ans:E
+
+74.	The operation of the maritime industry includes the following except:
+a.	Overhead shipping 
+b.	Liner shipping 
+c.	Industry shipping 
+d.	Tramp shipping 
+e.	None of the options 
+Ans:A
+
+75.	Which of the following forms of logistics can access any destination in the world? 
+a.	Maritime freight 
+b.	Air freight 
+c.	Land freight 
+d.	Rail freight 
+e.	All the options 
+Ans:E
+
+76.	Express delivery as a form of logistics is characterized by the following except:
+a.	Efficiency
+b.	Traceability
+c.	Door-to-door service 
+d.	Aggregation 
+e.	Just-In-Time 
+Ans:D
+
+77.	The Just-In-Time delivery principles is characterized by which of the following:
+a.	Timely delivery 
+b.	Reduce inventory cost
+c.	High frequency of delivery 
+d.	All the options 
+e.	None of the options 
+Ans:D
+
+78.	Why does the way Logistics is handled matter in a business? 
+a.	It improves cost effectiveness 
+b.	It enhances the quality-of-service delivery 
+c.	It improves cost efficiency  
+d.	It improves impact of health care programme
+e.	All the options
+Ans:E 
+79.	Which of these is not a major activity in the logistics cycle?
+a.	Procurement 
+b.	Serving customers 
+c.	Sales
+d.	Storage
+e.	Inventory strategy 
+Ans:C
+
+80.	The quantification process in the logistics cycle involves which of the following?
+a.	Estimating quality and cost
+b.	Estimating quantity and distance 
+c.	Estimating quantity and cost
+d.	Estimating cost and distance 
+e.	None of the options 
+Ans:C
+
+81.	Effective supply chain management depends on the end-to-end visibility of the following except:
+a.	Right data
+b.	Right people 
+c.	Right place
+d.	Right products 
+e.	Right decision 
+Ans:D
+
+82.	Which of the following is not part of the functions of the logistics management information system?
+a.	Collection of data
+b.	Organizing data
+c.	Purchase of data
+d.	Presenting data
+e.	Usage of data
+Ans:C
+
+83.	Which of the following is correct about inventory carrying cost?
+a.	(Storage Costs - Employee Salaries + Opportunity Costs + Depreciation Costs) / Total Value of Annual Inventory
+b.	(Storage Costs + Employee Salaries + Opportunity Costs + Depreciation Costs) x Total Value of Annual Inventory 
+c.	(Storage Costs + Employee Salaries + Opportunity Costs + Depreciation Costs) / Total Value of Annual Inventory 
+d.	(Storage Costs + Employee Salaries + Opportunity Costs - Depreciation Costs)  /  Total  Value  of  Annual Inventory
+e.	None of the options 
+Ans:C
+
+84.	Which of the following is correct about calculating safety stocks?
+a.	(Maximum Daily Usage x Maximum Lead Time) - (Average Daily Usage x Average Lead Time)
+b.	(Maximum Daily Usage - Maximum Lead Time) - (Average Daily Usage - Average Lead Time) 
+c.	(Maximum Daily Usage / Maximum Lead Time) - (Average Daily Usage / Average Lead Time) 
+d.	(Maximum Daily Usage + Maximum Lead Time) - (Average Daily Usage + Average Lead Time)
+e.	None of the options 
+Ans:A
+
+85.	Which of the following is correct about calculating on time shipping rate?
+a.	(Number of on time items + Total items) x 100
+b.	(Number of on time items - Total items) x 100 
+c.	(Number of on time items x Total items) x 100 
+d.	(Number of on time items / Total items) x 100
+e.	None of the options 
+Ans:D
+
+86.	Which of the following is correct about calculating order fill rate?
+a.	(Total customer order shipped - Number of customer order filled) x 100
+b.	(Total customer order shipped / Number of customer order filled) x 100 
+c.	(Total customer order shipped + Number of customer order filled) x 100 
+d.	(Total customer order shipped x Number of customer order filled) x 100
+e.	None of the options 
+Ans:B
+
+87.	Which of the following is correct about calculating customer order cycle time?
+a.	Actual delivery date + purchase order date
+b.	Actual delivery date / purchase order date
+c.	Actual delivery date - purchase order date 
+d.	Actual delivery date x purchase order date
+e.	None of the options 
+Ans:C
+
+88.	Freight charge can be reduced, and costs can be saved if the shipper: 
+A.	Use air shipment
+B.	Use shipping documents
+C.	Use 40 feet containers
+D.	Use 20 feet containers
+E.	Use group shipment with large volume
+Ans:E
+
+89.	Which of the following mode of shipment has the most complicated customs procedures? 
+A.	Air shipment
+B.	Sea shipment
+C.	Road shipment
+D.	Rail shipment
+E.	None of the above
+Ans:B
+
+90.	Which of the following is part of the Carrier’s immunities under the Hague and Hague-Visby Rules?
+A.	Exemption from liabilities caused by forced majeure
+B.	Exemption from liabilities caused by defect in the packing of the goods
+C.	Exemption from liabilities caused by negligence of the crew
+D.	Time limit to lodge a complaint of loss
+E.	All of the above
+Ans:E
+
+91.	Which of the following commercial mode of transport has the highest speed of delivery in the world 
+A.	Air
+B.	Road
+C.	Sea
+D.	Rail
+E.	All of the above
+Ans:A
+
+92.	A charter party arrangement in which the ship owner runs the vessel and crew and the charterer merely hires the ship for one voyage is called: 
+A.	Voyage charterer
+B.	Time charterer
+C.	Bare boat
+D.	Ocean voyage
+E.	All of the above
+Ans:A
+
+93.	A transport document with a clause stating that the release of the goods being carried is subject to charter party contract is called: 
+A.	Bill of lading
+B.	Non-negotiable bill of lading
+C.	Multimodal bill of lading
+D.	Sea waybill
+E.	None of the above
+Ans:E
+
+94.	As an agent, the forwarder will procure the services of third parties who will perform the following activities except: 
+A.	Packing of the goods
+B.	Storage of the goods
+C.	Transport of the goods
+D.	Customs clearance of the goods
+E.	None of the above
+Ans:E
+
+95.	Which type of freight forwarder is involve in assembling diverse shipments from various customers so as to make up full container loads?
+A.	Multimodal operator
+B.	Consolidators
+C.	Port agent
+D.	Air freight agent
+E.	Loading broker
+Ans:B
+
+96.	Which of the following commercial mode of transport has the lowest premium fee for insurance in the world? 
+A.	Air
+B.	Road
+C.	Sea
+D.	Rail
+E.	All of the above
+Ans:A
+
+97.	A clean transport document is a document that: 
+A.	Does not contain any statin
+B.	Does not contain stained good
+C.	Does not contain defective goods
+D.	Does not contain any dirty products
+E.	None of the above
+Ans:C
+
+98.	A bill of lading confers the following rights on the consignee except: 
+A.	Right to demand for goods upon arrival at the port of discharge
+B.	Right to sue the carrier for lost of goods in transit
+C.	Right to sell the goods in transit
+D.	Right raise funds with documents
+E.	None of the above
+Ans:E
+ 
+99.	To collect the goods from the shipping line when the shipping documents are lost in transit, an importer needs to provide which of the following to the shipping line? 
+A.	Personal guarantee
+B.	Corporate guarantee
+C.	Bank guarantee
+D.	Personal undertaken
+E.	None of the above
+Ans:C
+
+100.	Which of the following transport document can be used for collateral in a trade finance transaction? 
+A.	Air waybill
+B.	Road waybill
+C.	Rail waybill
+D.	Bill of lading
+E.	All of the above
+Ans:D
+
+101.	A non-negotiable sea waybill is very useful in a shipment that has which of the following characteristics: 
+A.	Sales in transit
+B.	Short journey
+C.	Document as security for goods
+D.	Long journey
+E.	All of the above
+Ans:B
+
+102.	The airwaybill issued by a freight forwarder who is an agent of an airline is called:  
+A.	Master air waybill
+B.	Slave air waybill
+C.	House airwaybill
+D.	Superior air waybill
+E.	Inferior air waybill
+Ans:C
+
+103.	A group of shipping companies serving specific ocean routes and ports is called:
+A.	Conferences
+B.	Tramps
+C.	Outsiders
+D.	Insiders
+E.	All of the above
+Ans:A
+
+104.	Which of the following is a surcharge that enables shipping lines to adjust freight according to fluctuation in fuel prices? 
+A.	Bunker Adjustment Factor
+B.	Bunker Adjustment Forces
+C.	Currency Adjustment Factor
+D.	Currency Adjustment Forces
+E.	None of the above
+Ans:A
+
+105.	Which of the following is true about liner terms? 
+A.	It is a contract between buyer and seller
+B.	It is a contract between shipping line and shipper
+C.	It is part of the sales contract
+D.	It is part of international commercial terms
+E.	None of the above
+Ans:B
+
+106.	FCA (Free Carrier), which can be thought of as the containerized/ multimodal equivalent of: 
+A.	FOB
+B.	FOC
+C.	FAS
+D.	FIFO
+E.	None of the above
+Ans:A
+
+107.	Which of the following is not a benefit of Air Freight?  
+A.	Lower insurance premium
+B.	Less cost of packaging
+C.	Lower inventory cost
+D.	High speed of delivery
+E.	All of the above
+Ans:E
+
+108.	An Air waybill is not:  
+A.	A contract of carriage
+B.	An evidence of receipt of goods
+C.	An evidence of title to goods
+D.	All of the above
+E.	None of the above
+Ans:C
+
+109.	Which of the following commercial mode of transport has the highest number of services for delivery of goods in the world? 
+A.	Air
+B.	Road
+C.	Sea
+D.	Rail
+E.	All of the above
+Ans:B
+
+110.	Which of the following commercial mode of transport is most preferred to transport industrial ores in the world? 
+A.	Air
+B.	Road
+C.	Rail
+D.	All of the above
+E.	None of the above
+Ans:C
+
+111.	Who buyers the cost of freight in a contract that has a CIF incoterm 2020?  
+A.	Importer
+B.	Clearing agent
+C.	Exporter
+D.	Forwarding agent
+E.	Shipping line
+Ans:C
+
+112.	Who has an insurable interest in the goods that was damaged in transit after leaving the port of loading in a contract that has a CIF incoterm 2020?  
+A.	Importer
+B.	Clearing agent
+C.	Exporter
+D.	Forwarding agent
+E.	Shipping line
+Ans:A
+113.	Which of the following is not true under an open cover or floating insurance policy? 
+A.	It covers a single shipment 
+B.	It is extended over a period of time 
+C.	It can be taken by carrier 
+D.	It can be taken by forwarder
+E.	None of the above
+Ans:A
+
+114.	Which of the following are the risks excluded from the insurance coverage of Institute Cargo Clause A?
+A.	War
+B.	Strike
+C.	Insufficient packing
+D.	Delay 
+E.	None of the above
+Ans:E
+
+115.	Which of the following commercial mode of transport has the highest premium fee for insurance in the world? 
+A.	Air
+B.	Road
+C.	Sea
+D.	None of the above
+E.	All of the above
+Ans:B
+
+116.	Some of the benefits of supply chain management include which of the following?
+a.	Increased profitability 
+b.	Reduced cost of doing business 
+c.	Carry appropriate inventory 
+d.	Manage supply disruption 
+e.	All of the options 
+
+
+CASE STUDIES
+
+1.	What are the Days of Supply (DOS) of the warehouse if the average stock on hand is 10,000 boxes while the average monthly demand is 50,000 boxes?
+a.	6 days
+b.	10 days 
+c.	30 days 
+d.	120 days
+e.	None of the options 
+Ans:A
+
+2. If the Re-Order Point of a business is 50,000 boxes, safety stock is 10,000 and the demand per day is 8,000 boxes calculate the lead time for the delivery of a new order.
+A.	5 days 
+B.	6 days
+C.	7 days
+D.	8 days
+E.	None of the options
+Ans:A
+
+3. Calculate the par level of a business if the average inventory usage is 20,000 boxes per month and the safety stock is 20% of the usage while the warehouse receives deliveries once per week 
+a.	6,000 boxes
+b.	2,500 boxes 
+c.	3,000 boxes 
+d.	2,000 boxes
+e.	None of the options 
+
+4. What is the customer order cycle for a business that delivered an order on April 1, 2021 when the date of creation of the purchase order is March 4, 2021?
+a.	1 week
+b.	2 weeks 
+c.	3 weeks
+d.	4 weeks
+e.	5 weeks
+Ans:A
+
+5. If a business has its maximum and average daily usage of stocks to be 10,000 units and 7,000 units respectively and the maximum and average lead time for delivery to be 10 days and 7days respectively, calculate the safety stocks to be kept by this business.
+a.	7,000 units
+b.	70,000 units 
+c.	51,000 units 
+d.	49,000 units
+e.	None of the options 
+Ans:D
+
+6. What is the rate of timely shipment of a business that shipped 15,000 units of the order before the latest shipment date while the total order was 20,000 units?
+a.	20%
+b.	25% 
+c.	75% 
+d.	80%
+e.	None of the options 
+Ans:C
+
+7. What is the order fill rate of a business that shipped a total 6,000 cartons on first shipment out of the total of 10,000 cartons ordered by the customer? 
+a.	40%
+b.	25%
+c.	75% 
+d.	60%
+e.	None of the options 
+Ans:D
+
+8. What is the Re-Order Point of a business if safety the stock is 5,000 boxes, the demand per day is 4,000 boxes and the lead time for the delivery of a new order is 5 days?
+a.	25,000 boxes
+b.	24,000 boxes 
+c.	20,000 boxes 
+d.	15,000 boxes 
+e.	None of the options 
+Ans:D
+
+9. If the Re-Order Point of a business is 24,000 bags, safety stock is zero and the demand per day is 4,000 boxes calculate the lead time for the delivery of a new order.
+A.	7 days 
+b.	6 days
+C.	8 days
+D.	5 days
+E.	None of the options
+Ans:B
+
+10. What is the depreciation cost of a business that has 10,000 units of a product in the warehouse at the rate of $2.5 per unit if the company recorded 500 units damaged and 1,500 units expired?
+A.	$7,500
+B.	$5,000
+C.	$2,250
+D.	$5,250
+E.	None of the options 
+Ans:B
+
+11. What is the value of the buffer inventory of a company that sells about 7,500 units every month at unit cost of $1 but currently have 10,000 units the warehouse?
+A.	$10,000
+b.  $2,500
+C.	$7,500
+D.	$11,500
+E.	None of the options
+Ans:B
+
+12. Calculate the Re-Order Point if the demand per day for a business is 1,000 boxes, safety stock is zero and the lead time for the delivery of a new order is 2weeks
+A.	4,000 boxes 
+B.	7,000 boxes
+c. 14,000 boxes
+d. 28,000 boxes 
+E.	None of the options 
+Ans:C
+
+13. Calculate the inventory velocity of a business that has an opening stock of 5,000 cartons at the beginning of the month and a sales forecast of 20,000
+a.	25%
+b.	50% 
+c.	75% 
+d.	100%
+e.	None of the options 
+Ans:A
+
+14. Calculate the perfect order measurement of the of a business that had 10000 orders in the month of May 2019 and the staff made 2000 errors in processing these orders
+a.	20%
+b.	80% 
+c.	2.0% 
+d.	98.0%
+e.	None of the options 
+Ans:B
+
+15. Calculate the inventory turnover ratio of a business that has $60,000 as the value of the cost of goods sold in March 2021 with an opening and closing stocks value of $20,000 and $10,000 respectively 
+a.	3.0
+b.	7.5
+c.	2.0
+d.	10.0
+e.	12.0
+Ans:E
+
+
+
+

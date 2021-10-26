@@ -1,0 +1,764 @@
+1.	The efficiencies delivered by the logistics management information system can be seen in which of the following business operations?
+a.	Distribution planning 
+b.	Workflow forecasting 
+c.	Performance monitoring 
+d.	Inventory management 
+e.	All the options 
+Ans:E
+
+2.	Which of the following digital tools is for inventory control in the logistics information management system?
+a.	Point of sales
+b.	Enterprise resource planning 
+c.	Warehouse management system 
+d.	Distribution planning system 
+e.	Fleet management system 
+Ans:C
+
+3.	Data obtained from the logistics management and information systems can be use to do the following except:
+a.	Prompt response to customer’s needs
+b.	Optimization of business processes
+c.	Evidence to guide supply chain strategies 
+d.	Enables effective collaboration with business partners 
+e.	None of the options 
+Ans:E
+
+4.	Which of these is the characteristics of reorder point in the inventory control system and policy?
+a.	Replenishment is done based on the agreed days of supply 
+b.	Replenishment is based on a fixed quantity 
+c.	Replenishment is based on quantity that minimize order holding costs 
+d.	Replenishment is based on the shipped quantity 
+e.	Replenishment is based on quantity below the set minimum & maximum level 
+Ans:C
+
+5.	A business that wants to incorporate other business functions like sales, finance and so on with logistics management needs which of the following digital tools?
+a.	Point of sales
+b.	Enterprise resource planning 
+c.	Warehouse management system 
+d.	Distribution planning system 
+e.	Fleet management system 
+Ans:B
+
+6.	Which of the following data are absolutely necessary in the management of supply chain system?
+a.	Stock out, consumption and losses
+b.	Stock in, consumables and losses
+c.	Stock on hand, consumption, and losses
+d.	Stock on hand, consumables, and losses
+e.	Stock out, consumables and losses
+Ans:C
+
+7.	In logistics management information system, losses are stocks that are removed from the pipeline due to:
+a.	Expiration, theft, purchases
+b.	Expiration, delivery, purchases
+c.	Expiration, theft, damages 
+d.	Theft, purchase, damages
+e.	Delivery, purchase, theft 
+Ans:C
+
+8.	The positive or negative administrative correction made to stock keeping record is called?
+a.	Amendment 
+b.	Enhancement 
+c.	Agreement 
+d.	Adjustment 
+e.	Attainment 
+Ans:D
+
+9.	From a supply chain point of view, what are the four planned actions that can happen in a logistics pipeline?
+a.	Stored, removed, transformed, used
+b.	Stored, moved, reformed, used
+c.	Restored, moved, transformed, used
+d.	Stored, moved, transfer, used
+e.	Stored, moved, transformed, used
+Ans:E
+
+10.	Which of these is not part of the logistics records required to track a product?
+a.	Stock keeping records
+b.	Stock outing records
+c.	Transactions records
+d.	Consumption records 
+e.	None of the options 
+Ans:B
+
+11.	Which of these is the characteristics of reorder point in the inventory control system and policy?
+a.	Replenishment is done based on the agreed days of supply 
+b.	Replenishment is based on a fixed quantity 
+c.	Replenishment is based on quantity that minimize order holding costs 
+d.	Replenishment is based on the shipped quantity 
+e.	Replenishment is based on quantity below the set minimum & maximum level 
+Ans:B
+
+12.	Stock keeping records are used to record which of the following?
+a.	Stock balance 
+b.	Stock receipts 
+c.	Stock issues
+d.	Stock losses
+e.	All the options 
+Ans:E
+
+13.	Which of the following is not part of vouchers used to obtain transaction records?
+a.	Requisition voucher 
+b.	Issue voucher 
+c.	Packing voucher
+d.	Transfer voucher
+e.	None of the options 
+Ans:C
+
+14.	The information about products that goes into the consumption records include the following except:
+a.	Daily activities register
+b.	Dispensing register
+c.	Daily use log
+d.	Tick sheets
+e.	None of the options 
+Ans:E
+
+15.	The transactions records document changes to which of the following records?
+a.	Stock keeping record 
+b.	Purchase records
+c.	Transfer records 
+d.	Consumption records 
+e.	None of the options 
+Ans:A
+
+16.	Which of the following is true about summary report of the data visibility of logistics management information system?
+a.	It is aimed at informing the lower-level staff
+b.	It informs about performance 
+c.	It is solely for decision makers at higher level
+d.	It helps to improve capacity 
+e.	It helps to give recognition 
+Ans:C
+
+17.	Which of the following is not a function of a digital LMIS?
+a.	Identify mathematical errors
+b.	Search for data averages
+c.	Highlights missed deadlines
+d.	List the percentage of expected reports received
+e.	None of the options 
+Ans:E
+
+18.	Which of the following is not necessary for the implementation of digital LMIS?
+a.	Existing strong logistics business process
+b.	Political and institutional support 
+c.	Resources to go all the way
+d.	Multidisciplinary team
+e.	None of the options 
+Ans:E
+
+19.	The LMIS data is used for routine operational decisions like the following except: 
+a.	Inventory management control 
+b.	Replenishment 
+c.	Root cause analysis 
+d.	Forecasting
+e.	Order fulfilment 
+Ans:C
+
+20.	The LMIS data is used for strategic decisions like the following except:
+a.	Monitoring 
+b.	Governance 
+c.	Stakeholders’ coordination
+d.	System design 
+e.	Optimizing distribution 
+Ans:A
+
+21.	The quality of data in LMIS can be improved through the following except?
+a.	Data collection 
+b.	Data usage 
+c.	Data reporting 
+d.	Data analysis 
+e.	Digital LMIS
+Ans:B
+
+22.	Which of these is not part of “six rights” of supply chain?
+a.	Right goods
+b.	Right quantity 
+c.	Right channels
+d.	Right time
+e.	Right cost 
+Ans:C
+
+23.	A supply chain manager must be one familiar with which of the following environmental and products characteristics before defining inventory strategy?
+a.	Technology and available tools
+b.	Budget resources and cost
+c.	Volume and characteristics of products 
+d.	Suppliers’ relationship and capacity 
+e.	All the options 
+Ans:E
+
+24.	Which of the following is not a characteristic of products that determine volume of inventory stored?
+a.	Packaging material 
+b.	Seasonality 
+c.	Temperature sensitivity 
+d.	Critical nature 
+e.	Shelf life
+Ans:A
+
+25.	A supply chain manager is saving a $97,000 per annum by maintaining high level of cost to serve the customers but incurs an extra cost of $9,000 per month for keeping a high inventory. Which of the following statement is correct?
+a.	The supply chain manager should be sacked 
+b.	The supply chain manager has balanced the trade off
+c.	The supply chain manager is incomplete 
+d.	The supply chain manager needs to be queried 
+e.	None of the options 
+Ans:B
+
+26.	The capacity, performance and relationship with a supplier can form the basis for inventory policies such as:
+a.	Vendor management inventory 
+b.	Vendor maintenance inventory 
+c.	Vendor maintenance industry 
+d.	Vendor managed inventory 
+e.	None of the options 
+Ans:D
+
+27.	The reasons why a business will hold safety stocks include the following except:
+a.	To cover uncertainties 
+b.	To meet variations in demand 
+c.	To cover unanticipated demand 
+d.	To cover delay in supply 
+e.	None of the options 
+Ans:E
+
+28.	Which of these will be correct supply chain contributions if the primary strategy of a business is quality?
+a.	Efficient and low-cost infrastructure 
+b.	Designed “from the customer in”
+c.	Time to market and time to volume 
+d.	Supply chain excellence and quality control 
+e.	None of the options 
+Ans:D
+
+29.	Which of the following is true about requisition (pull) system?
+a.	It is used in a centralized system 
+b.	It is used in a decentralized system 
+c.	It involves allocation 
+d.	Quantity is calculated at the point of issue 
+e.	All of the options 
+Ans:B
+
+30.	Which of the following inventory performance measurement metrics measures customer service?
+a.	Inventory accuracy 
+b.	Inventory on hand
+c.	Order fulfilment rate
+d.	Inventory ageing
+e.	Cycle time
+Ans:C
+
+31.	Which of these is the characteristics of lots for lots in the inventory control system and policy?
+a.	Replenishment is done based on the agreed days of supply 
+b.	Replenishment is based on a fixed quantity 
+c.	Replenishment is based on quantity that minimize order holding costs 
+d.	Replenishment is based on the shipped quantity 
+e.	Replenishment is based on quantity below the set minimum & maximum level 
+Ans:D
+
+32.	The inventory performance measurement metrics can be grouped into:
+a.	Operational and Functional 
+b.	Marketing and Sales 
+c.	Logistics and Delivery 
+d.	Logistics and Financial 
+e.	Operational and Financial 
+Ans:E
+
+33.	The operational performance in an inventory planning and control system can be measured using the following except:
+a.	Inventory accuracy 
+b.	Inventory on hand
+c.	Inventory ageing
+d.	Inventory holding
+e.	Cycle time
+Ans:D
+
+34.	Which of the following inventory performance measurement metrics measures the level of inventory available?
+a.	Inventory accuracy 
+b.	Inventory on hand
+c.	Order fulfilment rate
+d.	Inventory ageing
+e.	Cycle time
+Ans:B
+
+35.	Which of the following lays the foundation to measure other types of inventory performance?
+a.	Inventory accuracy 
+b.	Inventory on hand
+c.	Order fulfilment rate
+d.	Inventory ageing
+e.	Cycle time
+Ans:A
+
+36.	Which of the following is not a metric for the measurement financial performance of an inventor planning and control?
+a.	Inventory holding
+b.	Inventory on hand
+c.	Gross marketing 
+d.	Inventory obsolescence 
+e.	Cost of goods sold
+Ans:B
+
+37.	The metrics that measures the funds invested in inventory either at a point in time or over a period of time is called:
+a.	Inventory holding
+b.	Inventory on hand
+c.	Gross marketing 
+d.	Inventory obsolescence 
+e.	Cost of goods sold
+Ans:A
+
+38.	Inventory obsolescence can result from which of the following?
+a.	Theft
+b.	Expiration 
+c.	Damages
+d.	Obsolete
+e.	All the options 
+Ans:E
+
+39.	The measurement metrics for profit generated by sales of inventory during a specified period is called.
+a.	Gross earnings 
+b.	Gross revenue 
+c.	Gross margin
+d.	Gross sales
+e.	Gross income
+Ans:C
+
+40.	Order fulfilment being part of the key warehousing activities include the following except.
+a.	Picking 
+b.	Packing 
+c.	Shipping 
+d.	Sales
+e.	None of the options 
+Ans:D
+
+41.	Which of these is not part of the flow that is seen in a typical supply chain process?
+a.	Information 
+b.	Materials 
+c.	Funds 
+d.	None of the options 
+e.	All the options 
+Ans:D
+
+42.	Which of these will be correct supply chain contributions if the primary strategy of a business is innovation?
+a.	Efficient and low-cost infrastructure 
+b.	Designed “from the customer in”
+c.	Time to market and time to volume 
+d.	Supply chain excellence and quality control 
+e.	None of the options 
+Ans:C
+
+43.	Companies in the world of today are moving towards an agile supply chain and this is characterized by the following except?
+a.	Flexibility 
+b.	Long term view 
+c.	Rapid response to the to changing market condition 
+d.	Variable cost structure 
+e.	None of the options 
+Ans:E
+
+44.	Which of the following is not part of the ingredients in products development through supply chain management?
+a.	Designing products to match to match processes and supply chain
+b.	Designing processes to match to match products and supply chain
+c.	Designing supply chain to match to match processes and products
+d.	Designing products to match to match profit and supply chain
+e.	None of the options 
+Ans:D
+
+45.	Which of these makes supply chain to be very critical in new products development?
+a.	It drives investment of capital 
+b.	It determines critical path to launch date
+c.	It determines storage
+d.	It drives distribution strategy 
+e.	None of the options 
+Ans:B
+
+46.	Which of the following is not a consideration of the financial institutions in supply chain financing?
+a.	Logistics supply chain 
+b.	Physical supply chain
+c.	Information supply chain
+d.	Financial supply chain 
+e.	None of the options 
+Ans:A
+
+47.	In supply chain financing, the information supply chain involves the following processes except.
+a.	Collect information 
+b.	Distribute information 
+c.	Transform information 
+d.	Filter information 
+e.	None of the options 
+Ans:D
+
+48.	Which of the following is not part of the financial consequences of a supply chain?
+a.	Payment for sourced goods
+b.	Cost of production 
+c.	Cost of freight
+d.	Cost of marketing 
+e.	Cost of funding inventory 
+Ans:B
+
+49.	For a company that decides to manufacture the products by doing “make to order” what does this means? 
+a.	Produce and stored, awaiting customer orders 
+b.	Produced in response to customer orders
+c.	Produce partially and complete upon receipt of order
+d.	Produce to the speciation of the customer 
+e.	None of the options  
+Ans:A
+
+50.	Which of the following parties in a supply chain is not both a buyer and a seller in the chain?
+a.	Consumers 
+b.	Manufacturers 
+c.	Wholesalers 
+d.	Retailers 
+e.	None of the options 
+Ans:E
+
+51.	Which of the following is correct about the matching of event and document that carries the information about the event in an information supply chain?
+a.	Goods loaded on board the vessel - Bill of lading 
+b.	Goods loaded on the truck - Road waybill 
+c.	Goods inspection - Inspection report 
+d.	Goods loaded on a train - Rail waybill 
+e.	All of the options 
+Ans:E
+
+52.	Which of the following documentations dictates the relationship between physical and financial supply chain?
+a.	Invoice 
+b.	Packing list
+c.	Sales Contract
+d.	Bill of lading 
+e.	Insurance 
+Ans:C
+
+53.	Which of the following document represent the first event in a financial supply chain?
+a.	Purchase order 
+b.	Invoice 
+c.	Packing list
+d.	Bill of lading 
+e.	Insurance 
+Ans:A
+
+54.	In supply chain finance, the pre-shipment lead time means the time from:
+a.	Order to shipment 
+b.	Dispatch to arrival 
+c.	Raw to finished goods
+d.	Finished production to sales
+e.	All of the options 
+Ans:A
+
+55.	Which of the following is not a hidden cost in physical distribution?
+a.	Lost sales
+b.	Cost of customer dissatisfaction 
+c.	Transport cost
+d.	Inventory losses
+e.	Cost of time in transit
+Ans:C
+
+56.	Which of these is not part of the waste that the Just-In-Time system was designed to solve?
+a.	Money tied down in inventory 
+b.	Cost of space for inventory 
+c.	Cost of security for inventory 
+d.	Delay in discovering defective products 
+e.	All of the options 
+Ans:E
+
+57.	Which of the following is not part of the procurement process?
+a.	Develop quality standards 
+b.	Funding procurement 
+c.	Products development 
+d.	Negotiating prices
+e.	Inventory control 
+Ans:C
+
+58.	The procurement process is only completed when?
+a.	The goods a loaded
+b.	The goods are dispatched 
+c.	The goods are in transit 
+d.	The goods are in possession of the buyer
+e.	The goods have been converted to finished product 
+Ans:D
+
+59.	Which of the following is correct about the procurement process?
+a.	Identifying requirements comes after finding suppliers 
+b.	Finding suppliers comes before negotiating terms
+c.	Negotiating terms comes before selecting the final vendor
+d.	Purchase order creation comes before shipment 
+e.	Presentation of documents comes after shipment 
+Ans:A
+
+60.	Which of the following is not a traditional objective of procurement?
+a.	Safe supply 
+b.	Competitive advantage 
+c.	Right quality 
+d.	Right price
+e.	None of the options 
+Ans:B
+
+61.	Which of the following is correct about upstream and downstream stream activities in a supply chain?
+a.	Supply of raw material - Upstream 
+b.	Managing suppliers of raw material - Downstream 
+c.	Supplier’s supplier of raw material - Upstream 
+d.	Distribution of finished products - Downstream 
+e.	Delivery of finished products- Downstream
+Ans:B
+
+62.	Which of the following is true about collaborative forecasting?
+a.	It is more accurate?
+b.	It involves collaboration between suppliers and the manufacturers 
+c.	It makes supply chain to be more responsive 
+d.	It makes supply chain to be more efficient 
+e.	All of the options 
+Ans:E
+
+63.	Which of the following stakeholders in a company is not concerned about the stock level of inventory but rather the bottom line?
+a.	Accounting Unit
+b.	Management team
+c.	Salesperson 
+d.	Operation manager 
+e.	None of the options
+Ans:B
+
+64.	Which of the following products is easier to forecast in the supply chain process?
+a.	Milk 
+b.	Clothing
+c.	Sugar
+d.	Beverages 
+e.	None of the options 
+Ans:B
+
+65.	The following are true about forecasting except:
+a.	The forecast error increase with distance between the manufacturers and customers 
+b.	Aggregate forecasting is more accurate than disaggregated forecasting 
+c.	Long term forecasting is less accurate than short term forecasting 
+d.	To be more accurate forecasting should include forecast error 
+e.	All of the options 
+Ans:E
+
+66.	The forecasting methods in supply chain management that combines historical demand with certain factors in the environmental is called:
+a.	Qualitative 
+b.	Quantitative 
+c.	Simulations
+d.	Casual 
+e.	Time series
+
+67.	Which of the following forecasting is likely to be more accurate?
+a.	National GDP forecasting 
+b.	Company income forecasting 
+c.	Products sales forecasting 
+d.	Sub National GDP forecasting 
+e.	All of the options 
+
+68.	Which of the following manufacturers is likely going to have a more accurate forecasting of sales?
+a.	Manufacturer - Distributors - Wholesalers - Retailers - Consumers 
+b.	Manufacturer - Wholesalers - Retailers - Consumers
+c.	Manufacturer - Retailers - Consumers
+d.	Manufacturer – Consumers
+e.	None of the options
+ 
+69.	The following are part of the forecasting methods in supply chain management except:
+a.	Qualitative 
+b.	Quantitative 
+c.	Simulations
+d.	Casual 
+e.	Time series 
+
+70.	The forecasting methods in supply chain management that rely on human judgment and expert opinion is called:
+a.	Qualitative 
+b.	Quantitative 
+c.	Simulations
+d.	Casual 
+e.	Time series 
+
+71.	Which of the following stakeholders in a company fight to have low inventory stock kept in the warehouse?
+a.	Accounting & Finance 
+b.	Management team
+c.	Salesperson 
+d.	Operation manager 
+e.	None of the options
+
+72.	It is important to have an accurate view of the inventory carrying cost because:
+a.	It is critical to calculating profit 
+b.	It helps to determine production volume 
+c.	It constitutes 20-30% of inventory value 
+d.	All of the options above
+e.	None of the options 
+
+73.	These are all operational costs involved in storing inventory except:
+a.	Rent
+b.	Staff salary 
+c.	Marketing 
+d.	Depreciation 
+e.	Insurance 
+
+74.	For a company that decides to manufacture the products by doing “engineer to order” what does this means? 
+a.	Produce and stored, awaiting customer orders 
+b.	Produced in response to customer orders
+c.	Produce partially and complete upon receipt of order
+d.	Produce to the specifications of the customer 
+e.	None of the options  
+
+75.	An eCommerce business that takes inventory carry cost into consideration will be able to.
+a.	Accurately store products 
+b.	Accurately transport products 
+c.	Accurately calculate profit 
+d.	Accurately market products 
+e.	All of the options 
+
+76.	Which of these is not part of the four criteria components of carrying cost?
+a.	Rent 
+b.	Salaries 
+c.	Logistics 
+d.	Depreciation 
+e.	Opportunity 
+
+77.	Storage cost as part of inventory carrying cost include which of the the following:
+a.	Stowage 
+b.	Insurance 
+c.	Transfer
+d.	Pickup 
+e.	All of the options 
+
+78.	Which of the following stakeholders in a company fight to have more inventory stock in the warehouse?
+a.	Accounting Unit
+b.	Management team
+c.	Salesperson 
+d.	Operation manager 
+e.	None of the options
+
+79.	Decoupling inventories is characterized by the following except: 
+a.	It is a type of safety inventory 
+b.	It is a finished inventory 
+c.	It is an in-process inventory 
+d.	It reduces the impact machine breakdown 
+e.	It provides cushion 
+
+80.	From the perspective of suppliers in supply chain management which of the following is a characteristic of information flow?
+a.	Sales 
+b.	Orders
+c.	Quality 
+d.	Inventory 
+e.	Delivery schedule 
+
+81.	From the perspective of customers in supply chain management which of the following is a characteristic of information flow?
+a.	Capacity 
+b.	Delivery schedules
+c.	Promotional plans
+d.	Orders 
+e.	Sales
+
+82.	Which of these are part of the two new addition to the flows of supply chain management? 
+a.	Value and products 
+b.	Value and risk 
+c.	Risk and financial 
+d.	Financial and information 
+e.	Information and products 
+
+83.	Which of the following is the source of “real” money in a supply chain flow?
+a.	Distributors
+b.	Retailers 
+c.	Wholesalers
+d.	Consumers 
+e.	Manufacturers 
+
+84.	The downstream flow of materials in the supply chain includes the following except:
+a.	Raw materials 
+b.	Materials for repairs 
+c.	Finished goods 
+d.	Intermediate products 
+e.	None of the options 
+
+85.	The directions of the upstream flow in a supply chain is from:
+a.	Wholesalers to retailers 
+b.	Distributors to wholesalers
+c.	Manufacturer to distributors 
+d.	Consumers to Suppliers 
+e.	Suppliers to manufacturers 
+
+86.	The upstream flow of materials in the supply chain includes the following except:
+a.	Returned products 
+b.	Recycled products 
+c.	Expired products 
+d.	Products for servicing 
+e.	None of the options 
+
+87.	In the flow of risk in a supply chain management flow, which of the following is an internal risk in the flow?
+a.	Manufacturing risk
+b.	Demand risk
+c.	Supply risk
+d.	Environmental risk
+e.	None of the options  
+
+88.	To achieve superior performance in a supply chain management there is need for multilateral integration and this include which of the following?
+a.	Functional integration 
+b.	Geographical integration 
+c.	IT integration 
+d.	Network integration 
+e.	All of the options 
+
+89.	Which of the following is not an objective of data warehousing in a supply chain management?
+a.	Support strategic decision 
+b.	Speed up response time to business queries 
+c.	Improve data quality 
+d.	Support integrated business value chain
+e.	None of the options 
+
+90.	The quantity of stocks that the warehouse needs to get back to when the quantity in the store hit the PAR level is called
+a.	FIFO 
+b.	JIT
+c.	LIFO 
+d.	Set PAR Level 
+e.	Reorder Point  
+
+91.	The design of data warehouse for supply chain partners must put the following into consideration except:
+a.	Data duplication 
+b.	Data schema
+c.	Data sales 
+d.	Data security 
+e.	Dara homogeneity  
+
+92.	Which of the following explains the reason why a business needs to invest in data warehousing?
+a.	New product development 
+b.	Track metric and KPIs
+c.	Develop data driven strategies 
+d.	Research saving opportunities 
+e.	All of the options  
+
+93.	Which of the following is not a characteristic of a data warehouse?
+a.	Creates multiple sources of data
+b.	It has a consistent format 
+c.	Uniform structuring of data 
+d.	Complete and accurate data
+e.	None of the options  
+
+94.	In a typical organisation, the following are sources of data collection except: 
+a.	Spreadsheet 
+b.	Customer relationship management system 
+c.	Enterprise resource planning 
+d.	Sales force application 
+e.	All of the options 
+
+95.	The operation of data warehousing in supply chain management includes the following except: 
+a.	Extract data from organisational system 
+b.	Load in a centralized location 
+c.	Share it to multiple locations 
+d.	Transform the data
+e.	Integrate the data  
+
+96.	Which of these is the primary objective of supply chain and inventory management? 
+a.	Minimize cost and increase sales
+b.	Minimize cost and increase marketing 
+c.	Satisfy customer and increase sales
+d.	Satisfy customers and minimize cost
+e.	Increase marketing and sales 
+
+97.	An inventory management technique that enables goods to arrive in the right quantity, at the right quality at the right place at the right time for utilisation of an organisation is called:
+a.	Prioritize with ABC
+b.	Set at levels
+c.	Re-order level
+d.	Just in time
+e.	Contingency planning
+
+98.	Which of the following actors in the supply chain plays a very crucial role in the implementation of JIT inventory management technique?
+a.	Consumers
+b.	Manufacturers 
+c.	Distributors
+d.	Retailers
+e.	Supplier
+
+99.	Which of the following determines the ceiling of the stock in the warehouse in an inventory management technique?
+a.	FIFO 
+b.	JIT
+c.	LIFO 
+d.	Set PAR Level 
+e.	Reorder Point  
+
+100.	The following are the KPIs that are generally helpful and worth considering for dashboards except:
+a.	Meeting purchase order requirements 
+b.	Lead time for delivery 
+c.	Marketing strategy 
+d.	Price variance 
+e.	Invoicing delays

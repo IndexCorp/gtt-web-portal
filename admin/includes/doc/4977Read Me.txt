@@ -1,0 +1,32 @@
+The file that is doing the job is QuizExtractor.php. It is a class with a public method. The public method does the job. The name of the public method is XtractQuestion.
+The public method takes the fille path that has the question (with an optional separator defaulted to '.') and returns false if not exist or an array of questions in the following format:
+	array ( 0 => array 
+		( 'question' => ' Which of the following is true about domestic and export trade?',
+		 'options' => array ( 
+			0 => ' Export trade involves the payment of custom duties in importing country', 	
+			1 => ' Local trade usually involves the payment of foreign currency', 
+			2 => ' Local trade involves more documentation than export trade', 
+			3 => ' Export trade does not involve transport across borders', 
+			4 => ' Local trade is subject to higher risk than export trade', ), 
+		'answer' => 'A', ), 
+	1 => array ( 
+		'question' => ' Which of the following is correct about the benefits of exportation to a business?', 
+		'options' => array ( 
+			0 => ' Increase in sales volume and revenues', 
+			1 => ' Diversification of market risk', 
+			2 => ' Help in offsetting any lag in domestic demand', 
+			3 => ' All of the above', 
+			4 => ' None of the above', ), 
+			'answer' => 'D', )
+		)
+the above example consist of an array of two questions. each question is an associative array with the keys: 'question','options' and 'answer'. The value of 'options' is an array of the options.
+Check the samples usage in the index.php. you can host the folder and run it and see the output.
+
+Rules
+=====
+The files it will read must comply with the following rules:
+1. It must be a txt file
+2. The question must start with a number follow by a dot(the separator) and then space.
+3. An option must be label with an alphabet, from A to E. It should be follow immediately by a dot(the separator) and then a space
+4. The answer should be labelled, Ans:B where b is the correct option.
+Check the quiz.txt file for the sample formart.

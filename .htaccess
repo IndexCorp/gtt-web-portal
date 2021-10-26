@@ -1,0 +1,137 @@
+RewriteEngine On
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^auth/?$ auth/student_login.php [QSA]
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^document/?$ document [QSA]
+
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^forgot_password/?$ auth/forgot_pass.php [QSA]
+
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^reset/([a-zA-Z0-9_-]+)/?$ auth/reset.php?reset=$1 [QSA]
+
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^register/?$ auth/student_reg.php [QSA]
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^register/([a-zA-Z0-9_-]+)/?$ auth/student_reg.php?register=$1 [QSA]
+
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^logout/?$ auth/logout.php [QSA]
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^auth/login?$ auth/student_login.php [QSA]
+
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^admin/?$ admin/index.php?dashboard [QSA]
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^student/?$ student/index.php?student-dashboard [QSA]
+
+
+
+
+
+
+
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^store/?$ store/index.php [QSA]
+
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^store/([a-zA-Z0-9_-]+)/?$ store/index.php?$1 [QSA]
+
+
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^store/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+) store/index.php?$1=$2 [QSA]
+
+
+
+
+
+
+
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^blog/?$ blog/index.php [QSA]
+
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^blog/([a-zA-Z0-9_-]+)/?$ blog/index.php?$1 [QSA]
+
+
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^blog/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+) blog/index.php?$1=$2 [QSA]
+
+
+
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^admin/([a-zA-Z0-9_-]+)/?$ admin/index.php?$1 [QSA]
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^admin/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+) admin/index.php?$1=$2 [QSA]
+
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^admin/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+) admin/index.php?$1=$2&$3=$4 [QSA]
+
+
+
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^student/([a-zA-Z0-9_-]+)/?$ student/index.php?$1 [QSA]
+
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^student/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+) student/index.php?$1=$2 [QSA]
+
+
+
+
+
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([a-zA-Z0-9_-]+)/?$ index.php?$1 [QSA]
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([a-zA-Z0-9_-]+)/([0-9]+) index.php?$1=$2 [QSA]
+
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . index.php [L]
